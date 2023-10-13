@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "Vue.volar", // .vue file support
+    "Vue.vscode-typescript-vue-plugin", // typescript support for .vue files
+    "Gruntfuggly.todo-tree", // plugin for tracking todos in code
+    "dbaeumer.vscode-eslint", // shows eslint errors and suggests quick fixes
+    "Orta.vscode-jest", // vs-code integrated test runner for unit tests
+  ]
+}

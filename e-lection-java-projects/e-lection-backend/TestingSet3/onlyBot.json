@@ -1,0 +1,24 @@
+{
+  "electionMeta": {
+    "title": "Bot",
+    "description": "",
+    "authority": "udqps@student.kit.edu",
+    "end": "2023-03-08T20:00:00.000Z",
+    "threshold": 1
+  },
+  "trustees": [],
+  "isBotEnabled": true,
+  "questions": {
+    "0": {
+      "questionText": "Was",
+      "options": [
+        "a",
+        "b"
+      ],
+      "max": 1
+    }
+  },
+  "voters": [
+    "udqps@student.kit.edu"
+  ]
+}

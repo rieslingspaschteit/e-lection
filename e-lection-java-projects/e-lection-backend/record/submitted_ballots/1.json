@@ -1,0 +1,71 @@
+{
+  "object_id": "1",
+  "style_id": "0",
+  "manifest_hash": "2995F3D1B3CAD801298C30BCB132B527BF15728AA7DE7E528DFC2EFBB0155ABB",
+  "code": "0ABC",
+  "code_seed": "0123",
+  "contests": [
+    {
+      "object_id": "14",
+      "sequence_order": 0,
+      "description_hash": "FBF64F0A3880B0C070137A6DFFA146AFF5D9A0CD3138D9C80A206E370ED232FC",
+      "ballot_selections": [
+        {
+          "object_id": "14-0-No",
+          "sequence_order": 0,
+          "description_hash": "ECCB3CE7765892A7D79F3BB50725CBF05652798E66D61B2CBCB4723A32018C91",
+          "ciphertext": {
+            "pad": "0A",
+            "data": "0B"
+          },
+          "crypto_hash": "A6B180D836EA7EE3A34C88CF429FB6FACF73F3055686C63EE7976F89571366C6",
+          "is_placeholder_selection": "00",
+          "proof": {
+            "proof_zero_pad": "0A",
+            "proof_zero_data": "0B",
+            "proof_one_pad": "0E",
+            "proof_one_data": "0F",
+            "proof_zero_challenge": "0C",
+            "proof_one_challenge": "01",
+            "challenge": "02",
+            "proof_zero_response": "0D",
+            "proof_one_response": "02"
+          }
+        },
+        {
+          "object_id": "14-1-placeholder",
+          "sequence_order": 1,
+          "description_hash": "E28681412CEAEB71E095F4C4A1DD042137F97E1703005BD2972D135108D3EC6E",
+          "ciphertext": {
+            "pad": "0A",
+            "data": "0B"
+          },
+          "crypto_hash": "5F7C2DCC32BDA5F2294B156525F3FD1A3E07FF20BC267D1FA2EF1130C259E797",
+          "is_placeholder_selection": "01",
+          "proof": {
+            "proof_zero_pad": "0A",
+            "proof_zero_data": "0B",
+            "proof_one_pad": "0E",
+            "proof_one_data": "0F",
+            "proof_zero_challenge": "0C",
+            "proof_one_challenge": "01",
+            "challenge": "02",
+            "proof_zero_response": "0D",
+            "proof_one_response": "02"
+          }
+        }
+      ],
+      "crypto_hash": "CD78839BB340666751B46CC27249422F229B2274DDB34E3C3028B21C65704EAB",
+      "proof": {
+        "pad": "01",
+        "data": "02",
+        "challenge": "03",
+        "response": "04",
+        "constant": 5
+      }
+    }
+  ],
+  "timestamp": 1675349645099,
+  "crypto_hash": "ABA651C51B42CAB2C160593902DA2B57A20C6753C68EDFFF56A59693484992A8",
+  "state": 1
+}

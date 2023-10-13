@@ -1,0 +1,9 @@
+{
+    "valid-user-response": {
+        "data": {
+            "userRoles": ["voter", "trustee"],
+            "email": "user@mail.com"
+        },
+        "status": 200
+    }
+}

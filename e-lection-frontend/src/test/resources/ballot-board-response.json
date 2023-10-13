@@ -1,0 +1,11 @@
+{
+    "valid-ballot-board-response": {
+        "data": {
+            
+            "trackingCodes": ["tackingcode1", "trackingcode2"]
+              
+        },
+
+        "status": 200
+    }
+}

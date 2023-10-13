@@ -1,0 +1,28 @@
+{
+  "electionMeta": {
+    "title": "Threshold1",
+    "description": "Ist die beschreibung der Fehler?\nWas ist mir SOnderzeichen?@€?#'",
+    "authority": "udqps@student.kit.edu",
+    "end": "2023-03-08T20:00:00.000Z",
+    "threshold": 1
+  },
+  "trustees": [
+    "udqps@student.kit.edu",
+    "maximu31415926@gmail.com"
+  ],
+  "isBotEnabled": true,
+  "questions": {
+    "0": {
+      "questionText": "Was",
+      "options": [
+        "a",
+        "b"
+      ],
+      "max": 1
+    }
+  },
+  "voters": [
+    "udqps@student.kit.edu",
+    "maximu31415926@gmail.com"
+  ]
+}

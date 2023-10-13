@@ -1,0 +1,13 @@
+[fake]
+client-id = "01.no.client.com"
+client-secret = "FAKE_SECRET-1234_ABC"
+client-authentication-method = "client_secret_basic"
+authorization-grant-type = "authorization_code"
+redirect-uri = "login/oauth2/code"
+scope = ["openid", "email"]
+authorization-uri = "https://no.valid.maping.com/oauth2/auth"
+token-uri = "https://no.valid.mapping.com/oauth2/v4/token"
+user-info-uri = "https://no.valid.mapping.com/oauth2/v3/userinfo"
+jwk-set-uri = "https://no.valid.mapping.com/oauth2/v3/certs"
+issuer-uri = "https://accounts.no.valid.mapping.com"
+user-name-attribute-name = "sub"

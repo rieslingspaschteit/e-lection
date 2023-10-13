@@ -1,0 +1,13 @@
+{
+  "auxKeys": {
+    "1": {
+      "keyType": "RSA",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwHqM0H8H5GHUG7Pp4HjtWK+8BPY/emgD3kQUucppSazWnhz4RdemU2z+OfoDVynZXBJV66cdQ49jms3TBo0+/h3COrrTTG31rpCjIQ/UuHc5BZ0T0865Vl6nGaxVs4lUSiJSmxXU1evxoEMCSX8hsQO0xBqemX2IugRxatElQ0qFOiqtZHpgHP3VOUkrzUIWa8Y3Hc2HFuSDcJ/gE6SBvtXFCgZojCVWT+FXptSUS8hkJgCK6OtMsH4jBUXA9KuwPKqYnx9Ef4p1QDNOOR5uniSXYJq3aUnQM9mhjDkr9v6/IgRcAul3xCEPeiB6zgAFLDV4+oH1mQDhkdtMcLhSuwIDAQAB"
+    },
+    "3": {
+      "keyType": "RSA",
+      "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvAxXM9j1quKttclJLxKs3PVnn+a1rC9ol5HxeMiyVzeFocOwOzAdYplwCzF+O+RDScDIGLCRLPptncDAGByVOlYRGMFG76ymfOsr2bEV8G1zWtuRsmEfRdzmIQfLY7SryvJA1bzLWW6WHbSeAZfoQ8ihR+jSpPzopO0O4+t6DP1nLJlD2OPudBZPoif+auFpBr6gNUYluaz0aXe505+4tR35SMM/SrcxpeMUjsjLfu3j9Z/HL1Nqwnf9vqSVQdh9et5J8rrfNZ1PYRuHqxJR7GSwjqtcqwxj3XtGpFXBRjB668EAuf/vbhKDpYLR94mjhjRAcKr8Hmf1IJUy5qSn1wIDAQAB"
+    }
+  },
+  "threshold": "2"
+}

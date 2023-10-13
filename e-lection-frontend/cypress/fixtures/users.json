@@ -1,0 +1,30 @@
+{
+  "authority": {
+    "email": "e.lection@mail.org",
+    "password": "s8NKMgv8PH:bZ64"
+  },
+  "trustee1": {
+    "email": "trustee1@mail.org",
+    "password": "C57h-Lds.Kvqn9N"
+  },
+  "trustee2": {
+    "email": "trustee2@mail.org",
+    "password": "x0TxG6EQoputmHadALmU"
+  },
+  "voter1": {
+    "email": "voter1@mail.org",
+    "password": "0hvK09cvCchUghvrz92F"
+  },
+  "voter2": {
+    "email": "voter2@mail.org",
+    "password": "TWDGGiaf9JqVHEHdfd7z"
+  },
+  "voter3": {
+    "email": "voter3@mail.org",
+    "password": "WmvN62-UU!9uteZ"
+  },
+  "voter4": {
+    "email": "voter4@mail.org",
+    "password": "FFRZJseRKJDZLnHP9Lir"
+  }
+}

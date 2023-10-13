@@ -1,0 +1,6 @@
+URL: localhost:8080/api/trustee/elections/1/auxkeys
+
+{
+  "keyType": "RSA",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0CPcyjzHmRxNnqKBazxs2vuSEjT667SWjMrCofeks/nQUK+ubl1thTbpihG8jf9XdQR4Hnh1o7NZ2HUYMpoiIkhxV9hkXf/j7HiRUeFYmp4+Js1zZiPunkzPMpjU3u8OZNDwbc4XBgRJGIfqzfarV4svUg6xS53nPtK197xtZlaq7lHVzJHtHAcfgx1SaCAgfQeDmUl+2LcREFfbIxUNZZqsIhyzhh/NCIDEWkYJNOW+zl9KjPPG/u1DYHdEn66rD6y3qjgOYus9sL+R//Xdju2xUHno5dWaq8qHzsb3iV/aI668hpShQ9/7c77CCCSr5Qvyv9ezV2JsPu0zd857HQIDAQAB"
+}

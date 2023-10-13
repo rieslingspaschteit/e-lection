@@ -1,0 +1,12 @@
+{
+    "error-bad-request": {
+
+        "data": {
+            "message": "insufficient access rights"
+        },
+    
+        "status": 400
+
+    }
+    
+}

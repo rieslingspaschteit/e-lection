@@ -1,0 +1,25 @@
+{
+    "create-response": {
+        "data": {
+            "electionId": 1,
+            "state": "CREATED"
+        },
+        "status": 200
+    },
+
+    "key-cer-response": {
+        "data": {
+            "keyCerCount": 1,
+            "keyCerState": "AUX_KEYS"
+        },
+        "status": 200
+    },
+
+    "decryption-response": {
+        "data": {
+            "decCount": 1,
+            "decState": "P_DECRYPTION"
+        }
+    }
+
+}

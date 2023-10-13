@@ -1,0 +1,26 @@
+URL: localhost:8080/api/authority/elections/create
+
+{
+  "electionMeta": {
+    "title": "ElectionV1",
+    "description": "Wählen Sie den neuen Bürgermeister für unsere Stadt",
+    "start": "2023-02-01T12:00:00Z",
+    "end": "2023-02-07T12:00:00Z",
+    "threshold": 2
+  },
+  "questions": {
+    "0": {
+      "questionText": "Welcher Kandidat sollte Bürgermeister werden?",
+      "options": ["Kandidat A", "Kandidat B", "Kandidat C"],
+      "max": 1
+    },
+    "1": {
+      "questionText": "Soll das neue Freizeitzentrum gebaut werden?",
+      "options": ["Ja", "Nein"],
+      "max": 1
+    }
+  },
+  "trustees": ["ujxik@student.kit.edu", "penciu@online.de"],
+  "bot": false,
+  "voters": ["ujxik@student.kit.edu", "uhuxt@student.kit.edu", "udfvy@student.kit.edu", "penciu@online.de"]
+}

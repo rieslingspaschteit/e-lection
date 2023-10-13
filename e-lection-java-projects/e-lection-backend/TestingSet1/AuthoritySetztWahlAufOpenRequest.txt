@@ -1,0 +1,5 @@
+URL: localhost:8080/api/authority/elections/1
+
+{
+    "state": "open"
+}

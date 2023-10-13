@@ -1,0 +1,38 @@
+{
+  "electionMeta": {
+    "title": "ElectionV1",
+    "description": "Wählen Sie den neuen Bürgermeister für unsere Stadt",
+    "start": "2023-05-01T12:00:00",
+    "end": "2023-05-07T12:00:05",
+    "threshold": 2
+  },
+  "questions": {
+    "0": {
+      "questionText": "Welcher Kandidat sollte Bürgermeister werden?",
+      "options": [
+        "Kandidat A",
+        "Kandidat B",
+        "Kandidat C"
+      ],
+      "max": 1
+    },
+    "1": {
+      "questionText": "Soll das neue Freizeitzentrum gebaut werden?",
+      "options": [
+        "Ja",
+        "Nein"
+      ],
+      "max": 1
+    }
+  },
+  "trustees": [
+    "ujxik@student.kit.edu",
+    "penciu@online.de",
+    "maximu31415926@gmail.com"
+  ],
+  "isBotEnabled": false,
+  "voters": [
+    "voter1@example.com",
+    "voter2@example.com"
+  ]
+}

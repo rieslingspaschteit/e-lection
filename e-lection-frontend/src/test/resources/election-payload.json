@@ -1,0 +1,95 @@
+{
+    "valid-no-optionals": {
+        "electionId": 1,
+        "electionMeta": {
+            "title": "some title",
+            "description": "some description",
+            "authority": "authority@mail.com",
+            "end": "2023-01-20T12:20:38.811Z",
+            "threshold": 3,
+            "key": null,
+            "start": null
+        },
+        "fingerprint": null,
+        "state": "CREATED"
+    },
+
+    "undefined-electionId": {
+        "electionMeta": {
+            "title": "some title",
+            "description": "some description",
+            "authority": "authority@mail.com",
+            "end": "2023-01-20T12:20:38.811Z",
+            "threshold": 3,
+            "key": null,
+            "start": null
+        },
+        "fingerprint": null,
+        "state": "CREATED"
+    },
+
+    "undefined-meta": {
+        "electionId": 1,
+        "state": "CREATED"
+    },
+
+    "undefined-state": {
+        "electionId": 1,
+        "electionMeta": {
+            "title": "some title",
+            "description": "some description",
+            "authority": "authority@mail.com",
+            "end": "2023-01-20T12:20:38.811Z",
+            "threshold": 3,
+            "key": null,
+            "start": null
+        },
+        "fingerprint": null
+    },
+
+    "invalid-electionId-NaN": {
+        "electionId": "abc",
+        "electionMeta": {
+            "title": "some title",
+            "description": "some description",
+            "authority": "authority@mail.com",
+            "end": "2023-01-20T12:20:38.811Z",
+            "threshold": 3,
+            "key": null,
+            "start": null
+        },
+        "fingerprint": null,
+        "state": "CREATED"
+    },
+
+    "invalid-electionId-negative": {
+        "electionId": -1,
+        "electionMeta": {
+            "title": "some title",
+            "description": "some description",
+            "authority": "authority@mail.com",
+            "end": "2023-01-20T12:20:38.811Z",
+            "threshold": 3,
+            "key": null,
+            "start": null
+        },
+        "fingerprint": null,
+        "state": "CREATED"
+    },
+
+    "invalid-not-a-state": {
+        "electionId": 1,
+        "electionMeta": {
+            "title": "some title",
+            "description": "some description",
+            "authority": "authority@mail.com",
+            "end": "2023-01-20T12:20:38.811Z",
+            "threshold": 3,
+            "key": null,
+            "start": null
+        },
+        "fingerprint": null,
+        "state": "not a state"
+    }
+
+}

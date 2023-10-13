@@ -1,0 +1,13 @@
+{
+    "valid-result-response": {
+        
+        "data": {
+            "result": {
+                "0": [1, 3, 2],
+                "1": [14, 2]
+            }
+        },
+
+        "status": 200
+    }
+}

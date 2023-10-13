@@ -1,0 +1,62 @@
+{
+    "valid-no-optionals": {
+        "title": "some title",
+        "description": "some description",
+        "authority": "authority@mail.com",
+        "end": "2023-01-20T12:20:38.811Z",
+        "threshold": 3,
+        "key": null,
+        "start": null
+    },
+
+    "valid-with-optionals": {
+        "title": "some title",
+        "description": "some description",
+        "authority": "authority@mail.com",
+        "end": "2023-01-20T12:20:38.811Z",
+        "threshold": 3,
+        "commitments": "0ABC",
+        "start": "2023-01-19T12:20:38.811Z",
+        "key": "1234"
+    },
+
+    "undefined-title": {
+        "description": "some description",
+        "authority": "authority@mail.com",
+        "end": "2023-01-20T12:20:38.811Z",
+        "threshold": 3,
+        "commitments": "0ABC",
+        "start": "2023-01-19T12:20:38.811Z",
+        "key": "1234"
+    }, 
+
+    "undefined-authority": {
+        "title": "some title",
+        "description": "some description",
+        "end": "2023-01-20T12:20:38.811Z",
+        "threshold": 3,
+        "commitments": "0ABC",
+        "start": "2023-01-19T12:20:38.811Z",
+        "key": "1234"
+    },
+
+    "undefined-threshold": {
+        "title": "some title",
+        "description": "some description",
+        "authority": "authority@mail.com",
+        "end": "2023-01-20T12:20:38.811Z",
+        "start": "2023-01-19T12:20:38.811Z",
+        "key": "1234",
+        "commitments": "0ABC"
+    },
+
+    "undefined-end": {
+        "title": "some title",
+        "description": "some description",
+        "authority": "authority@mail.com",
+        "threshold": 3,
+        "start": "2023-01-19T12:20:38.811Z",
+        "key": "1234"
+    }
+
+}

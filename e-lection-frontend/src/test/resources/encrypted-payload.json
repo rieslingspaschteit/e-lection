@@ -1,0 +1,112 @@
+{
+    "encrypted-ballot": {
+      "cipherText": {
+        "0": [
+          {
+            "pad": "1234",
+            "data": "1234"
+          },
+          {
+            "pad": "1234",
+            "data": "1234"
+          }
+        ],
+        "1": [
+          {
+            "pad": "1234",
+            "data": "1234"
+          },
+          {
+            "pad": "1234",
+            "data": "1234"
+          }
+        ]
+      },
+      "individualProofs": {
+        "0": [
+          {
+            "proof0": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "proof1": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "challenge": "1234"
+          },
+          {
+            "proof0": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "proof1": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "challenge": "1234"
+          }
+        ],
+        "1": [
+          {
+            "proof0": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "proof1": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "challenge": "1234"
+          },
+          {
+            "proof0": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "proof1": {
+              "pad": "1234",
+              "data": "1234",
+              "challenge": "1234",
+              "response": "1234"
+            },
+            "challenge": "1234"
+          }
+        ]
+      },
+      "accumulatedProofs": {
+        "0": {
+          "pad": "1234",
+          "data": "1234",
+          "challenge": "1234",
+          "response": "1234",
+          "constant": "1234"
+        },
+        "1": {
+          "pad": "1234",
+          "data": "1234",
+          "challenge": "1234",
+          "response": "1234",
+          "constant": "1234"
+        }
+      },
+      "deviceInformation": "abc",
+      "date": "2023-01-30T09:53:37.533Z",
+      "ballotId": "0"
+    }
+  }
+  

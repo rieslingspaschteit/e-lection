@@ -1,0 +1,23 @@
+{
+    "valid-election-response": {
+
+        "data": {
+            "electionId": 1,
+            "electionMeta": {
+                "title": "some title",
+                "description": "some description",
+                "authority": "authority@mail.com",
+                "end": "2023-01-20T12:20:38.811Z",
+                "threshold": 3,
+                "start": null,
+                "key": null
+            },
+            "fingerprint": null,
+            "state": "CREATED"
+        },
+
+        "status": 200
+
+    }
+    
+}

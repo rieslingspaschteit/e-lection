@@ -1,0 +1,14 @@
+{
+    "auxKeys": {
+        "1": {
+            "publicKey":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyGNVSmwUdOAXpmymOLQmUFEJwPyKol2cKw8dNaDKg2ARP72K6zOmkL4J\/PsPiY7nEmZzJSDjODhIxlmLBGwx7Fgi2WzKPsW0eGe1c2OTFllPxjJ7gfFnoS1vU+VfaT8qobmIg1ro56YRT4wmKzfzOuzfwEKJrH5ByVSx8MP3TjagttNEHTEqglMO1j1XCrdlPJRXQpwuaWtRyPQEqii6L+1vudnup8gaANIo3KguGvGYy16L1Pc1fSFLCnSlQoV62vgQy5uIZEJQ9E2An8YxdSzyYkSraw808v7NgzRLhoDKvxzHKdOPYRyHihfSk3Ho6BONoeTQbioNrZjd29A4bwIDAQAB",
+            "keyType":"RSA"
+            },
+        "3":  
+        {
+            "publicKey":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0ze+RGq\/BWyI50q5CtFz9zTqCPs63G9t2AlkuUoaz8BVBfEJaUXoKMcfKCWhVPVDtbaL8VWtiNuZnpcf3KMWi9bP18eVxoKhmxmCRD50KJssb5WDzV5rseubxvEUsjTxJyNrhSxG4gWfwSs1l1toJ53UVrt26QtfaR8nuCwA0JpdKBpF3b\/YoYkPGLEhVjXNBezK\/DOGYuyI02tQaEew26PIOr16Aw3ucD+AVd0l89iXN\/1E1b151qa8wHJi5415xRAl48XrlesIYNy7C8JnyaH3P6jeAHZGy0kcgx7g4iMDxLNFy8k\/zH0\/sVGkNAnSqMlkNSi3Nmfz+a0d6jH3zwIDAQAB",
+            "keyType":"RSA"
+        }
+    },
+    "threshold": "2"
+}

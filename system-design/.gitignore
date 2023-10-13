@@ -1,0 +1,12 @@
+*.aux
+*.log
+*.out
+.idea/
+auxil/
+out/
+*.synctex.gz
+*.toc
+.vscode
+*.fdb_latexmk
+entwurf.pdf
+*.fls

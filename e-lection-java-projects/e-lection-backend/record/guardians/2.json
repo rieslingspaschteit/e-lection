@@ -1,0 +1,16 @@
+{
+  "guardian_id": "2",
+  "sequence_order": 1,
+  "election_public_key": "0B",
+  "election_commitments": [
+    "0B"
+  ],
+  "election_proofs": [
+    {
+      "public_key": "0B",
+      "commitment": "CD",
+      "challenge": "0E",
+      "response": "0F"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.web.json",
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@views/*": ["src/app/view/views/*"],
+      "@components/*": ["src/app/view/components/*"]
+    },
+    "lib": ["ES2020", "DOM"],
+    "types": ["jest"],
+    "strictNullChecks": true,
+    "resolveJsonModule": true
+  },
+
+  "references": [
+    {
+      "path": "./tsconfig.config.json"
+    }
+  ]
+}

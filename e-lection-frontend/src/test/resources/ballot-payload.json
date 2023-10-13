@@ -1,0 +1,18 @@
+{
+    "ballot": {
+        "questions": {
+            "0": {
+                "questionText": "Who",
+                "options": ["1", "2", "3", "4"],
+                "min": 1,
+                "max": 3
+            },
+            "1": {
+                "questionText": "What",
+                "options": ["a", "b", "c"],
+                "min": 0,
+                "max": 1
+            }
+        }
+    }
+}

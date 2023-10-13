@@ -1,0 +1,9 @@
+{
+    "valid-trustees-response": {
+        "data": {
+            "trustees": ["t1", "t2", "t3"],
+            "isBotEnabled": false
+        },
+        "status": 200
+    }
+}

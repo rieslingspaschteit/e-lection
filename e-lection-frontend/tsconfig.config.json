@@ -1,0 +1,17 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.node.json",
+  "include": ["vite.config.*", "vitest.config.*", "cypress.config.*", "cypress/support/e2e-utils.ts"],
+  "compilerOptions": {
+    "composite": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@views/*": ["src/app/view/views/*"],
+      "@components/*": ["src/app/view/components/*"]
+    },
+    "lib": ["ES2020", "DOM"],
+    "types": ["jest"],
+    "strictNullChecks": true,
+    "resolveJsonModule": true
+  }
+}

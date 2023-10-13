@@ -1,0 +1,47 @@
+:root {
+  --base-accent-darker: #403c63ff;
+  --base-accent-lighter: #9188e3ff;
+  --base-accent-lightest: #d3d1e8ff;
+  --base-border-color: #5a5a63ff;
+  --base-border-color-lighter: rgb(183, 183, 189);
+  --base-font-color: white;
+
+  --text-font: sans-serif;
+  --code-font: roboto-mono;
+}
+
+@font-face {
+  font-family: 'roboto-mono';
+  src: url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+article {
+  flex:1;
+}
+
+#app {
+  font-family: var(--text-font);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-prim {
+  background-color: var(--base-accent-lighter);
+  color: var(--base-font-color);
+  padding: 5px;
+  border: none;
+}
+
+.btn-prim:hover {
+  cursor: pointer;
+}

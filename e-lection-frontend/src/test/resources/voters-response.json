@@ -1,0 +1,44 @@
+{
+    "valid-hashes-response": {
+        "data": {
+            "manifestHash" : "0100",
+            "contestHashes": {
+                "0": "3610",
+                "1": "030B6F"
+            },
+            "selectionHashes": {
+                "0": ["03B9B6D610",
+                    "3010",
+                    "ABC57234",
+                    "2B2D"
+                ],
+                "1": ["30",
+                "68B9B6D610",
+                "03F0",
+                "1AB563",
+                "2BBA56",
+                "ABC123"
+            ]},
+            "contestIds": {
+                "0": "3610",
+                "1": "14"
+            },
+            "selectionIds": {
+                "0": ["03B9B6D610",
+                    "3010",
+                    "ABC57234",
+                    "2B2D"
+                ],
+                "1": ["30",
+                "68B9B6D610",
+                "03F0",
+                "A2B563",
+                "B1BA56",
+                "ABC123"
+            ]},
+            "commitments": "0AB45C",
+            "voterHash": "0ABC1048"
+        },
+        "status": "OK"
+    }
+}

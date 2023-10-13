@@ -1,0 +1,30 @@
+{
+  "object_id": "0",
+  "contests": {
+    "14": {
+      "object_id": "14",
+      "sequence_order": 0,
+      "description_hash": "FBF64F0A3880B0C070137A6DFFA146AFF5D9A0CD3138D9C80A206E370ED232FC",
+      "selections": {
+        "14-0-No": {
+          "object_id": "14-0-No",
+          "sequence_order": 0,
+          "description_hash": "ECCB3CE7765892A7D79F3BB50725CBF05652798E66D61B2CBCB4723A32018C91",
+          "ciphertext": {
+            "pad": "CD",
+            "data": "AB"
+          }
+        },
+        "14-1-placeholder": {
+          "object_id": "14-1-placeholder",
+          "sequence_order": 1,
+          "description_hash": "E28681412CEAEB71E095F4C4A1DD042137F97E1703005BD2972D135108D3EC6E",
+          "ciphertext": {
+            "pad": "CD",
+            "data": "AB"
+          }
+        }
+      }
+    }
+  }
+}

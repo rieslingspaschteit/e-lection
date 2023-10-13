@@ -1,0 +1,9 @@
+{
+    "valid-response": {
+        "data": {
+            "eligibleToVote" : true
+        },
+
+        "status": 200
+    }
+}
